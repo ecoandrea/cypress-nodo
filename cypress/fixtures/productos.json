@@ -1,0 +1,40 @@
+[
+    {
+        "id": 1,
+        "title": "Laptop Pro",
+        "price": 1200,
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "category": "men's clothing",
+        "image": "https://cdsassets.apple.com/live/SZLF0YNV/images/sp/111972_SP748-mbp13touch-silver.jpeg",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 2,
+        "title": "Smartphone X",
+        "price": 800,
+        "image": "https://www.apple.com/newsroom/images/2024/09/apple-debuts-iphone-16-pro-and-iphone-16-pro-max/article/Apple-iPhone-16-Pro-hero-geo-240909_inline.jpg.large.jpg",
+        "description": "Última generación de smartphones."
+    },
+    {
+        "id": 3,
+        "title": "Laptop Pro 2",
+        "price": 1200,
+        "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
+        "category": "men's clothing",
+        "image": "https://cdsassets.apple.com/live/SZLF0YNV/images/sp/111972_SP748-mbp13touch-silver.jpeg",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 4,
+        "title": "Smartphone X 2",
+        "price": 800,
+        "image": "https://www.apple.com/newsroom/images/2024/09/apple-debuts-iphone-16-pro-and-iphone-16-pro-max/article/Apple-iPhone-16-Pro-hero-geo-240909_inline.jpg.large.jpg",
+        "description": "Última generación de smartphones."
+    }
+]
